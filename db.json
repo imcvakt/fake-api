@@ -1,29 +1,44 @@
 {
-    "planner": {
-        "contractDetails": {
-            "customerTradeId": "EL-94631-001",
-            "creator": "Gunvor SA",
-            "product": {
-                "name": "Diesel"
-            },
-            "deliveryTerm": "CIF"
-        },
-        "nomination": {
-            "location": "Antwerp",
+    
+    "movements": [
+        {
+            "id": "1",
             "barge": {
                 "name": "LEO"
-            },
-            "loadingDate": "20/02/2020",
-            "dischargeDate": "22/02/2020",
-            "inspector": "XPTO",
-            "status": "PENDING_DRAFT",
-            "timestamp": ""
-        },
-        "parcels": [{
-            "type": "SELL",
-            "creator": "Gunvor SA",
-            "quantity": 2000,
-            "uom": "MMT"
-        }]
-    }
-   }
+            }
+        }
+    ],
+    "movement-transfers": [
+        {
+            "id": "1",
+            "data": "20/02/2020",
+            "type": "LOAD"
+            "movements": [
+                {
+                    "id": 1   
+                }
+            ]
+        }
+    ],
+    "build-draws": [
+        {
+            "id": "1",
+            "movementTransferId": "1",
+            "nominationId": "1"
+        }
+    ],
+    "parcels": [
+        {
+            "id": "1",
+            "tradeLegId": "1",
+            "movementTransferId": "1",
+            "nominationId": "1"
+        }
+    ],
+    "nominations": [
+        {
+            "id": "1",
+            "agent": "Nominated Agent"
+        }
+    ]
+}
