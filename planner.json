@@ -1,27 +1,27 @@
 {
-    contractDetails: {
-        customerTradeId: "EL-94631-001",
-        creator: "Gunvor SA",
-        product: {
-            name: "Diesel"
+    "contractDetails": {
+        "customerTradeId": "EL-94631-001",
+        "creator": "Gunvor SA",
+        "product": {
+            "name": "Diesel"
         },
-        deliveryTerm: "CIF",
+        "deliveryTerm": "CIF"
     },
-    nomination: {
-        location: "Antwerp",
-        barge: {
-            name: "LEO"
+    "nomination": {
+        "location": "Antwerp",
+        "barge": {
+            "name": "LEO"
         },
-        loadingDate: "20/02/2020",
-        dischargeDate: "22/02/2020",
-        inspector: "XPTO",
-        status: "PENDING_DRAFT",
-        timestamp: ""
+        "loadingDate": "20/02/2020",
+        "dischargeDate": "22/02/2020",
+        "inspector": "XPTO",
+        "status": "PENDING_DRAFT",
+        "timestamp": ""
     },
-    parcels: [{
-        type: "SELL",
-        creator: "Gunvor SA",
-        quantity: 2000,
-        uom: "MMT"
+    "parcels": [{
+        "type": "SELL",
+        "creator": "Gunvor SA",
+        "quantity": 2000,
+        "uom": "MMT"
     }]
 }
