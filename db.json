@@ -2,9 +2,7 @@
     "movements": [
         {
             "id": "1",
-            "barge": {
-                "name": "LEO"
-            }
+            "bargeId": "1"
         }
     ],
     "movement-transfers": [
