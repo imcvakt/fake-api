@@ -26,7 +26,7 @@
             "agent": "Nominated Agent"
         }
     ],
-    "trade-legs": [
+    "open-commitments": [
         {
           "contractDetails": {
               "customerTradeId": "7df385b4-7717-59e6-a7d7-5c98f7ce9561",
