@@ -28,6 +28,7 @@
     ],
     "open-commitments": [
         {
+          "id": "1",
           "contractDetails": {
               "customerTradeId": "7df385b4-7717-59e6-a7d7-5c98f7ce9561",
               "product": {
@@ -38,6 +39,7 @@
           }
         },
         {
+          "id": "2",
           "contractDetails": {
               "customerTradeId": "4c97f493-bfda-53e1-bafb-501d38992cb5",
               "product": {
