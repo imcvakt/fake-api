@@ -5,18 +5,6 @@
             "bargeId": "1"
         }
     ],
-    "movement-transfers": [
-        {
-            "id": "1",
-            "data": "20/02/2020",
-            "type": "LOAD",
-            "movements": [
-                {
-                    "id": "1"   
-                }
-            ]
-        }
-    ],
     "build-draws": [
         {
             "id": "1",
