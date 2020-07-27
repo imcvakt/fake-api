@@ -12,14 +12,6 @@
             "nominationId": "1"
         }
     ],
-    "parcels": [
-        {
-            "id": "1",
-            "tradeLegId": "1",
-            "movementTransferId": "1",
-            "nominationId": "1"
-        }
-    ],
     "nominations": [
         {
             "id": "1",
@@ -29,6 +21,8 @@
     "open-commitments": [
         {
           "id": "1",
+          "movementTransferId": "1",
+          "nominationId": "1",
           "contractDetails": {
               "customerTradeId": "7df385b4-7717-59e6-a7d7-5c98f7ce9561",
               "product": {
@@ -40,6 +34,8 @@
         },
         {
           "id": "2",
+          "movementTransferId": "1",
+          "nominationId": "1",
           "contractDetails": {
               "customerTradeId": "4c97f493-bfda-53e1-bafb-501d38992cb5",
               "product": {
