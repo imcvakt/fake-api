@@ -44,6 +44,19 @@
               "deliveryTerm": "FOB",
               "creator": "Gunvor SA"
           }
+        },
+        {
+          "id": "3",
+          "movementTransferId": "1",
+          "nominationId": "1",
+          "contractDetails": {
+              "customerTradeId": "4c97f493-bfda-53e1-bafb-501d38992cb5",
+              "product": {
+                "name": "Diesel"
+              },
+              "deliveryTerm": "FOB",
+              "creator": "Gunvor SA"
+          }
         }
     ]
 }
