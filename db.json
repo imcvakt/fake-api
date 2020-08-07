@@ -1,9 +1,9 @@
 {
     "subscriptions": [
-        { key: 1, eventName: 'Reject Nomination', isWebActive: true, isMobileActive: false},
-        { key: 2, eventName: 'Cancel Nomination', isWebActive: true, isMobileActive: false},
-        { key: 3, eventName: 'Receive Nomination', isWebActive: true, isMobileActive: true},
-        { key: 4, eventName: 'Reply Nomination', isWebActive: true, isMobileActive: false}
+        { 'key': 1, 'eventName': 'Reject Nomination', 'isWebActive': 'true', 'isMobileActive': 'false'},
+        { 'key': 2, 'eventName': 'Cancel Nomination', 'isWebActive': 'true', 'isMobileActive': 'false'},
+        { 'key': 3, 'eventName': 'Receive Nomination', 'isWebActive': 'true', 'isMobileActive': 'true'},
+        { 'key': 4, 'eventName': 'Reply Nomination', 'isWebActive': 'true', 'isMobileActive': 'false'}
     ],
     "build-draws": [
         {
